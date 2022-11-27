@@ -35,6 +35,17 @@
 #alias search=" brew search" #Homebrew Paket Suchen
 #alias ..='cd ..' #Ordner Zurück
 
+#Befehle Farbig machen
+## Colorize the ls output ##
+alias ls='ls --color=auto'
+ 
+## Use a long listing format ##
+alias ll='ls -la'
+ 
+ 
+## Show hidden files ## #Versteckte Dateien anzeigen lassen
+alias l.='ls -d .* --color=auto'
+
 #Aliase Löschen
 
 #unalias aliasname
