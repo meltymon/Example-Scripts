@@ -1,0 +1,20 @@
+#Hier Stelle ich euch einen DNS Server vor womit ihr euren Datenverkehr Kontrollieren könnt und jegliche Werbung,Adware,Junk und alles was man nicht 
+#Benötigt Netzwerkweit Blockieren könnt,Und zwar nicht wie Addblock Plus oder Orginblock nur im Browser sondern Systemweit alle Geräte die im Netzwerk sind.
+#Der Dns Server Heißt Pihole und man kann ihn Einfach mit einem Befehl Installieren
+#curl -sSL https://install.pi-hole.net | bash
+
+Alternative 1: Clone our repository and run¶
+
+git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole
+cd "Pi-hole/automated install/"
+sudo bash basic-install.sh
+Alternative 2: Manually download the installer and run¶
+
+wget -O basic-install.sh https://install.pi-hole.net
+sudo bash basic-install.sh
+Alternative 3: Use Docker to deploy Pi-hole¶
+Please refer to the "https://github.com/pi-hole/docker-pi-hole" to use the Official Docker Images.
+
+#Wenn Irgentwelche Fragen entstanden sind einfach mir eine Email Schreiben.
+#meltymon1982@gmail.com
+#LG Meltymon
