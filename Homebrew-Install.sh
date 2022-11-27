@@ -4,7 +4,7 @@
 #
 #Alias Befehle werden Grundsätzlich in der .bash_profile gespeichert (/Users/$User$/.bash_profile
 #
-#Beispiel Alias Befehl (alias Listall='ls -la' #"Listall" ist der Befehl den man Definieren möchte. und ziwschen '' ist der Eigentliche Befehl
+#Beispiel Alias Befehl #(alias Listall='ls -la' #"Listall" ist der Befehl den man Definieren möchte. und ziwschen '' ist der Eigentliche Befehl
 #
 #Hier Zeige ich euch ein Paar Alias Befehle
 
