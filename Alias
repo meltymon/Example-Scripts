@@ -1,0 +1,45 @@
+# Alias definitions:
+#Weiter Dokumentiere ich hier wie man befehle einfacher auf dem Mac oder Linux im Terminal ausführt.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.
+
+#Wichtig immer Die Raute(#) entfernen da es sonst nicht funktioniert ,weil es Kommentiert wurde (ohne Raute# ist es unkommentiert und wird als Befehl ausgeführt).
+
+#Alias Befehle werden Grundsätzlich in einer bash datei wie zum Beispiel .bash_profile gespeichert 
+
+#/Users/$User$/.bash_profile
+#oder
+#~/.bash_profile)
+
+#Beispiel Alias Befehl #(alias Listall='ls -la' #"Listall" ist der Befehl den man Definieren möchte. und ziwschen '' ist der Eigentliche Befehl
+
+#Hier Zeige ich euch ein Paar Alias Befehle
+
+#Funktionsbeispiele
+#alias name=value
+#alias name='command'
+#alias name='command arg1 arg2'
+#alias name='/path/to/script'
+#alias name='/path/to/script.pl arg1'
+#alias c='clear' #Den Bildschirm vom Terminal Löschen
+
+
+
+#alias listall=" ls -la" #auflisten aller Datein und Ordner in dem ihr Euch Grade befindet (Auch alle Versteckten Datein und Ordner)
+#alias install=" brew install" #Installieren ohne Cask
+#alias cinstall=" brew install --cask" #Installieren mit Cask
+#alias update=" brew update" #Homebrew Paketquellen Aktualisieren
+#alias upgrade=" brew upgrade" #Homebrew Paket Upgrade (Version Erhöhen)
+#alias remove=" brew remove" #Homebrew Paket Entfernen
+#alias search=" brew search" #Homebrew Paket Suchen
+#alias ..='cd ..' #Ordner Zurück
+
+#Aliase Löschen
+
+#unalias aliasname
+#unalias foo
+
+#Wenn Irgentwelche Fragen entstanden sind einfach mir eine Email Schreiben.
+#meltymon1982@gmail.com
+#LG Meltymon
