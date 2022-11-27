@@ -1,4 +1,8 @@
 #Hallo Dies ist ein Beispiel Script zum Installieren von Homebrew mit den einzelnen Steps
+# Alias definitions.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.
 
 #Weiter Dokumentiere ich hier wie man befehle einfacher auf dem Mac im Terminal ausführt.
 
