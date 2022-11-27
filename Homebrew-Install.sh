@@ -1,11 +1,11 @@
 #Hallo Dies ist ein Beispiel Script zum Installieren von Homebrew mit den einzelnen Steps
-#
+
 #Weiter Dokumentiere ich hier wie man befehle einfacher auf dem Mac im Terminal ausführt.
-#
+
 #Alias Befehle werden Grundsätzlich in der .bash_profile gespeichert (/Users/$User$/.bash_profile
-#
+
 #Beispiel Alias Befehl #(alias Listall='ls -la' #"Listall" ist der Befehl den man Definieren möchte. und ziwschen '' ist der Eigentliche Befehl
-#
+
 #Hier Zeige ich euch ein Paar Alias Befehle
 
 #alias listall=' ls -la’ #auflisten aller Datein und Ordner in dem ihr Euch Grade befindet (Auch alle Versteckten Datein und Ordner)
