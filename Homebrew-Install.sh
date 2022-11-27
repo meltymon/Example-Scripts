@@ -16,6 +16,7 @@ xcode-select install #Installieren von Xcode-Devoloper Tools für Terminal (130M
 
 #Schritt 3
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" #Installbefehl für Homebrew
+#Wenn Die Datei nicht erreichbar ist könnt ihr auch hier die Datei Runterladen
 
 #Wenn Irgentwelche Fragen entstanden sind einfach mir eine Email Schreiben.
 #meltymon1982@gmail.com
