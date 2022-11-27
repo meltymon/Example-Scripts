@@ -12,6 +12,8 @@
 
 #Hier Zeige ich euch ein Paar Alias Befehle
 
+#Wichtig immer Die Raute(#) entfernen da es sonst nicht funktioniert ,weil es Kommentiert wurde (ohne Raute# ist es unkommentiert und wird als Befehl ausgeführt).
+
 #alias listall=" ls -la" #auflisten aller Datein und Ordner in dem ihr Euch Grade befindet (Auch alle Versteckten Datein und Ordner)
 #alias install=" brew install" #Installieren ohne Cask
 #alias cinstall=" brew install --cask" #Installieren mit Cask
@@ -19,7 +21,7 @@
 #alias upgrade=" brew upgrade" #Homebrew Paket Upgrade (Version Erhöhen)
 #alias remove=" brew remove" #Homebrew Paket Entfernen
 #alias search=" brew search" #Homebrew Paket Suchen
-
+#alias ..='cd ..' #Ordner Zurück
 #Unter dieser Adresse kann man über den Bevorzugten Browser Pakete suchen
 #https://formulae.brew.sh/formula/
 
